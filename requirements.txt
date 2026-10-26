@@ -1,0 +1,6 @@
+tensorflow-cpu
+gradio
+numpy
+matplotlib
+scikit-learn
+pytest
